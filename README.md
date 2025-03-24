@@ -1,7 +1,7 @@
 <p align="center">
   <a href="#">
 <!--     <img width="250" height="250" src="https://media.tenor.com/N5fU8iyU9F4AAAAi/shigure-ui-dance.gif"> -->
-        <img width="250" height="250" src="https://i.pinimg.com/originals/a8/e5/9c/a8e59cd6a342cc3df98f793229f8bc91.gif">
+        <img  height="250" src="https://i.pinimg.com/originals/a8/e5/9c/a8e59cd6a342cc3df98f793229f8bc91.gif">
   </a>
 <!--   <img width="55" height="55" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif"> -->
   <br>  
